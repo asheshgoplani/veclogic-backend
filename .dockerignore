@@ -1,0 +1,13 @@
+# Exclude the node_modules directory
+node_modules/
+
+
+# Exclude logs
+*.log
+
+# Exclude development environment files
+.env.development
+
+# Exclude test and documentation files
+*.md
+*.test.js
